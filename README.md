@@ -1,0 +1,2 @@
+# AluraMidi
+Curso Alura JavaScript
